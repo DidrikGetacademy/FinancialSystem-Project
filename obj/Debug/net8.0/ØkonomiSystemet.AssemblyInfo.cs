@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ØkonomiSystemet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70a3f77e1c6075b95a973c7b22cbae9b254efa31")]
 [assembly: System.Reflection.AssemblyProductAttribute("ØkonomiSystemet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ØkonomiSystemet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

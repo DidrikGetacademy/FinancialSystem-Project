@@ -4107,11 +4107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Didrik\\OneDrive\\Skrivebord\\FinancialSystem fullstack\\FinancialSystem-project-main\\ØkonomiSystemet.csproj",
+      "projectUniqueName": "C:\\Users\\Didrik\\OneDrive\\Skrivebord\\FinancialSystem fullstack Javascript\\FinancialSystem-project-main\\ØkonomiSystemet.csproj",
       "projectName": "ØkonomiSystemet",
-      "projectPath": "C:\\Users\\Didrik\\OneDrive\\Skrivebord\\FinancialSystem fullstack\\FinancialSystem-project-main\\ØkonomiSystemet.csproj",
+      "projectPath": "C:\\Users\\Didrik\\OneDrive\\Skrivebord\\FinancialSystem fullstack Javascript\\FinancialSystem-project-main\\ØkonomiSystemet.csproj",
       "packagesPath": "C:\\Users\\Didrik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Didrik\\OneDrive\\Skrivebord\\FinancialSystem fullstack\\FinancialSystem-project-main\\obj\\",
+      "outputPath": "C:\\Users\\Didrik\\OneDrive\\Skrivebord\\FinancialSystem fullstack Javascript\\FinancialSystem-project-main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

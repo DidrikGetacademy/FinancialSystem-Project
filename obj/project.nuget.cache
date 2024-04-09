@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QvQKJMVKoXNwcydQ5vMI6P7iSUToGx0rJpo18G0Sxzf2KpO7l2dqd3DWCF66vHMJFJgGet6KInWKfOpb7eQ4Kw==",
+  "dgSpecHash": "Ry2uTqxZpsKvGU9xnwneWPvZaN/tojdzlN78Ov5PrKB+L+eLOrJc5eXVPin6q+S3AlDBzsgU98gvFG3imzix7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Didrik\\OneDrive\\Skrivebord\\FinancialSystem fullstack\\FinancialSystem-project-main\\ØkonomiSystemet.csproj",
+  "projectFilePath": "C:\\Users\\Didrik\\OneDrive\\Skrivebord\\FinancialSystem fullstack Javascript\\FinancialSystem-project-main\\ØkonomiSystemet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Didrik\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Didrik\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
