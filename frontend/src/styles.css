@@ -1,0 +1,309 @@
+body {
+  background-color: grey;
+  margin: 0; 
+height: 100%;
+width: 100%;
+  background-image: url("/frontend/Images/Finance2.jpg");
+}
+
+.container {
+  display: flex;
+  flex-direction: flex;
+  margin: 0;
+  height: 100vh; 
+  width: 100vh; 
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  width: 10vh;
+  border-radius: 25vh;
+  margin: 0 5px; 
+}
+
+h1, h2 {
+  text-align: center;
+  margin-bottom: 20px; 
+}
+
+.GoBackimg{
+position: relative;
+right: 1000px;
+bottom: 350px;
+margin: 0;
+height: 35px;
+cursor: pointer ;
+}
+.hexagon {
+  width: 122px; 
+  height: 72px; 
+  background-color: #2f80ed; 
+  position: relative;
+  left: 98.3%;
+  top: 16%;
+  transform: rotate(30.6deg);
+  opacity: 0.9; 
+}
+
+
+.hexagon:before,
+.hexagon:after {
+  content: "";
+  position: absolute;
+  width: 2px;
+  border-left: 62px solid transparent;
+  border-right: 60px solid transparent;
+}
+
+.hexagon:before {
+  bottom: 99%;
+  border-bottom: 38px solid #2f80ed; 
+}
+
+.hexagon:after {
+  top: 99%;
+  width: 0;
+  border-top: 35.64px solid #2f80ed; 
+}
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; 
+  text-shadow: 0 0 10px rgba(34, 24, 177, 0.7);
+}
+
+.Username{
+  position: relative;
+   right: 88vh; 
+   bottom: 51vh; 
+   color: whitesmoke;
+   font-size: 17px
+}
+
+.usernameContainer{
+background-color: rgb(3, 133, 214);
+text-shadow: 0 10 10px rgba(0, 255, 221, 0.7); 
+animation:infinite 10s;
+margin: 2px;
+width: 170px;
+border-radius: 60px;
+height: 25;
+text-align: center;
+
+}
+
+.nr1{
+position: relative;
+left: 25px;
+top: 25px;
+color: white;
+}
+
+.nr2{
+  position: relative;
+  color: white;
+  rotate: -90deg;
+  cursor: pointer;
+}
+
+.nr3{
+  position: relative;
+  left: -5px;
+  top: 10px;
+  rotate: 230deg;
+  color: white;
+  cursor: pointer;
+}
+
+.element1{
+position:relative;
+top:112px;
+left: 63px;
+transform: rotate(0deg);
+cursor: pointer;
+}
+
+.element2{
+position:relative;
+top: 37.8px;
+left: -6.3vh;
+transform: rotate(61deg);
+ cursor: pointer;
+  }
+
+  .element3{
+    position:relative;
+    bottom: 149px;
+    left:-129px;
+    transform: rotate(121.5deg);
+   
+    }
+
+    .Project{
+    position: absolute;
+    top: 31.8%;
+    width: 100%;
+    height: 650px;
+    background-color: rgb(3, 15, 24);
+    }
+
+    .NameDiv{
+     position: absolute;
+     display: flex;
+     left: 44%;
+   
+    }
+.InputName{
+border-radius: 30px;
+height: 25px;
+position: absolute;
+left: 45.5%;
+top: 110px;
+}
+
+.DescriptionInput{
+width: 500px;
+height: 400px;
+background-color: lightgrey;
+left: 37.5%;
+bottom: -95px;
+position: relative;
+border-radius: 15px;
+font-size: 15px;
+}
+
+
+.DescriptionLabel{
+font-size: 25px;
+position: absolute;
+left: 47%;
+top: 25%;
+}
+
+.NameLabel{
+position: absolute;
+left: 47%;
+font-size: 20px;
+}
+
+.CreateProjectsButton{
+position: absolute;
+left: 48%;
+top: 94%;
+height: 30px;
+border-radius:  10px;
+cursor: pointer;
+}
+
+
+
+
+.ProjectContainer {
+  width: 300px; 
+  height: flex; 
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.ProjectBox {
+  width: 200px; 
+  height: 50px; 
+  border: 2px solid #304d81;
+  margin-bottom: 10px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ProjectTitle {
+  color: white;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px;
+  text-align: center; 
+  cursor: pointer;
+}
+
+.MyProjectTitle {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+
+
+.ProjectBox2{
+width: 500px;
+height: 200px;
+background-color: black;
+color: white;
+}
+
+
+.Logout{
+
+}
+
+
+.hexagon2 {
+  width: 122px; 
+  height: 72px; 
+  background-color: #2f80ed; 
+  position: relative;
+  left: 97.5vh;
+  top: 9.1%;
+  transform: rotate(30.2deg);
+  opacity: 0.9; 
+}
+
+
+.hexagon2:before,
+.hexagon2:after {
+  content: "";
+  position: absolute;
+  width: 2px;
+  border-left: 62px solid transparent;
+  border-right: 60px solid transparent;
+}
+
+.hexagon2:before {
+  bottom: 99%;
+  border-bottom: 38px solid #2f80ed; 
+}
+
+.hexagon2:after {
+  top: 99%;
+  width: 0;
+  border-top: 35.64px solid #2f80ed; 
+}
+
+.element4{
+  position:relative;
+  top:112px;
+  left: 63px;
+  transform: rotate(0deg);
+  cursor: pointer;
+  }
+  
+
+.nr4{
+  position: relative;
+  left: 25px;
+  top: 10px;
+  rotate:330deg;
+  color: white;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#283024",
+        "titleBar.activeBackground": "#384332",
+        "titleBar.activeForeground": "#F9FAF9"
+    },
+    "liveServer.settings.port": 5002,
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/c6304817-2d94-4bcf-81d1-01dab71b71f7/resourceGroups/MyRescources/providers/Microsoft.Web/sites/financialSystem",
+    "appService.deploySubpath": "."
+}
