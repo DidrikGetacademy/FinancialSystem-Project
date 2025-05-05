@@ -9,6 +9,8 @@ function RegisterView() {
   
   function registerMenu() {
     return /*html*/ `
+    <div class="container">
+  <div class="background-box">
     <img src="/images/back.png" class="GoBackimg" onclick="view()"><img>
     <h1 >Create new account</h1>
     <label >Username:</label>
@@ -17,9 +19,12 @@ function RegisterView() {
     <label >Password:</label>
     <input type="password" id="password" required/><br/><br/>
     <button  onclick="registerUser()">Register</button>
+      </div>
+</div>
   `;
   }
 
 
 
+  
 

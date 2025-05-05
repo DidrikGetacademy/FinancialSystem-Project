@@ -11,14 +11,16 @@ function LoginView() {
 
   function LoginMenu() {
 return /*html*/ `
-
-<h1>Login</h1>
-<label >Username:</label>
-<input  id="username"  required /><br/><br/>
-
-<label >Password:</label>
-<input type="password" id="password" required/><br/><br/>
-<button style="cursor: pointer;" onclick="LoginUser()">Login</button>
+<div class="container">
+  <div class="background-box">
+    <h1>Login</h1>
+    <label>Username:</label><br>
+    <input id="username" /><br><br>
+    <label>Password:</label><br>
+    <input type="password" id="password" /><br><br>
+    <button onclick="LoginUser()">Login</button>
+  </div>
+</div>
 `;
 }
 

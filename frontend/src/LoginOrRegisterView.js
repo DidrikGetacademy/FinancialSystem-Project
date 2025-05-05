@@ -15,9 +15,11 @@ function FrontPageButtons () {
     `
 }
 
-function HeadTitle () {
+function HeadTitle() {
   return /*HTML*/ `
-<h1>Financial System</h1>
-<h2>sign in or register</h2>
-`
+    <div class="header-box">
+      <div class="header-title">Financial System</div>
+      <div class="header-subtitle">sign in or register</div>
+    </div>
+  `;
 }
